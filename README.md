@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. I dont know what Im doing
 
 ## Introduction
 
