@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. I dont know what Im doin
 
 ## Introduction
 
-
+This is an example to show the different parts of the Git repository and various commands using web projects.
 
 ## Purpose
 
