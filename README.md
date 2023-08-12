@@ -15,7 +15,7 @@ Whatever you like.
 
 ## How to contribute
 <<<<<<< HEAD
-Dont. Help la
+Dont. Im trying again please
 =======
 Dont. LALALALALALLALA
 >>>>>>> simple-changes
