@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 Whatever you like.
 
 ## How to contribute
-Dont.
+Dont. Help la
 
 ###Copyright
 2014 Git.Training.
