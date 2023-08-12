@@ -14,7 +14,11 @@ Sample website with plenty of files for demos
 Whatever you like.
 
 ## How to contribute
+<<<<<<< HEAD
 Dont. Help la
+=======
+Dont. LALALALALALLALA
+>>>>>>> simple-changes
 
 ###Copyright
 2014 Git.Training.
